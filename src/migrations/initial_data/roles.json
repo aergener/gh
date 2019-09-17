@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Owner",
+    "maxAmount": null,
+    "maxTxnCount": null,
+    "canSend": true,
+    "canApprove": true,
+    "canApproveOwn": true
+  },
+  {
+    "id": 2,
+    "title": "Authorizer",
+    "maxAmount": 50000,
+    "maxTxnCount": 1,
+    "canSend": true,
+    "canApprove": true,
+    "canApproveOwn": false
+  },
+  {
+    "id": 3,
+    "title": "Initiator",
+    "maxAmount": 50000,
+    "maxTxnCount": 20,
+    "canSend": true,
+    "canApprove": false,
+    "canApproveOwn": false
+  },
+  {
+    "id": 4,
+    "title": "Viewer",
+    "maxAmount": 0,
+    "maxTxnCount": 0,
+    "canSend": false,
+    "canApprove": false,
+    "canApproveOwn": false
+  }
+]

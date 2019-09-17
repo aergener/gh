@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "username": "RICHARD",
+    "company_id": 1,
+    "role_id": 1,
+    "account_ids": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "username": "DINESH",
+    "company_id": 1,
+    "role_id": 2,
+    "account_ids": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "username": "GILFOYLE",
+    "company_id": 1,
+    "role_id": 3,
+    "account_ids": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 4,
+    "username": "JARED",
+    "company_id": 2,
+    "role_id": 1,
+    "account_ids": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 5,
+    "username": "ERLICH",
+    "company_id": 2,
+    "role_id": 2,
+    "account_ids": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 6,
+    "username": "JIANYANG",
+    "company_id": 2,
+    "role_id": 2,
+    "account_ids": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "username": "DONALD",
+    "company_id": 3,
+    "role_id": 1,
+    "account_ids": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 8,
+    "username": "RAVIGA",
+    "company_id": 3,
+    "role_id": 3,
+    "account_ids": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 9,
+    "username": "NELSON",
+    "company_id": 4,
+    "role_id": 1,
+    "account_ids": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "username": "BIGHEAD",
+    "company_id": 4,
+    "role_id": 4,
+    "account_ids": [
+      7,
+      8
+    ]
+  }
+]
